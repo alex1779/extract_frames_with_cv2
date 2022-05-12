@@ -19,4 +19,4 @@ python main.py
 
 ## How works
 
-asdasd
+Load video files in 'data' folder first, then excecute the script. The data generate are stored in 'out' folder by names.
