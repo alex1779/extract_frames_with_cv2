@@ -5,7 +5,7 @@
 ```
 conda create -n extract_frames -y && conda activate extract_frames && conda install python=3.9.7 -y
 git clone https://github.com/alex1779/extract_frames_with_cv2.git
-cd extract_frames
+cd extract_frames_with_cv2
 pip install -r requirements.txt
 ```
 
