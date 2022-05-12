@@ -19,4 +19,4 @@ python main.py
 
 ## How works
 
-Load video files in 'data' folder first, then excecute the script. The data generate are stored in 'out' folder by names.
+Load video files in 'data' folder first, then excecute the script. The data generate are stored in 'out' folder by the names of videos.
