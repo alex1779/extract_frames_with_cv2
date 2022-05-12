@@ -9,6 +9,13 @@ cd extract_frames_with_cv2
 pip install -r requirements.txt
 ```
 
+
+## Requirements
+```
+opencv-python==4.5.5.64
+natsort==8.1.0
+```
+
 ## How to run
 
 
